@@ -1,13 +1,5 @@
 package assessment.projeto2;
 import java.util.Scanner;
-/*Crie um programa que:
-
-Solicite ao usuário seu nome e uma senha.
-A senha deve:
-Ter no mínimo 8 caracteres.
-Conter pelo menos uma letra maiúscula, um número e um caractere especial (@, #, $, etc.).
-Caso a senha seja inválida, o programa deve informar o erro específico e solicitar uma nova tentativa.*/
-
 
 public class ValidadorSenhaSegura {
     public static void main(String[] args) {
