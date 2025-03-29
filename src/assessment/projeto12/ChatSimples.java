@@ -2,6 +2,7 @@ package assessment.projeto12;
 import java.util.Scanner;
 
 public class ChatSimples {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
