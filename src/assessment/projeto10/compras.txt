@@ -1,0 +1,12 @@
+Produto: TV Samsung
+Quantidade: 1
+Preço Unitário: 3000.0
+------------------------------------------
+Produto: Iphone 14
+Quantidade: 1
+Preço Unitário: 7000.0
+------------------------------------------
+Produto: Tennis Nike
+Quantidade: 1
+Preço Unitário: 350.0
+------------------------------------------
