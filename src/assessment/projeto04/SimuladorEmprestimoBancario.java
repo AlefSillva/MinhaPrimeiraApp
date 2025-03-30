@@ -1,4 +1,4 @@
-package assessment.projeto4;
+package assessment.projeto04;
 
 import java.util.Scanner;
 

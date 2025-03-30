@@ -1,4 +1,4 @@
-package assessment.projeto6;
+package assessment.projeto06;
 
 class Veiculo {
     String placa;

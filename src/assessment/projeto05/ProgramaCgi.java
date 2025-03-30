@@ -1,4 +1,4 @@
-package assessment.projeto5;
+package assessment.projeto05;
 
 public class ProgramaCgi {
     public static void main(String[] args) {

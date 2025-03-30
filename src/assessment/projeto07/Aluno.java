@@ -1,4 +1,4 @@
-package assessment.projeto7;
+package assessment.projeto07;
 
 public class Aluno {
     String nome;

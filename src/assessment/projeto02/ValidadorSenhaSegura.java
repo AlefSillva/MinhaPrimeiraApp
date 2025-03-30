@@ -1,4 +1,4 @@
-package assessment.projeto2;
+package assessment.projeto02;
 import java.util.Scanner;
 
 public class ValidadorSenhaSegura {

@@ -1,4 +1,4 @@
-package assessment.projeto8;
+package assessment.projeto08;
 
 public class Gerente extends Funcionario {
     public Gerente(String nome, double salarioBase) {

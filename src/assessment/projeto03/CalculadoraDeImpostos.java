@@ -1,4 +1,4 @@
-package assessment.projeto3;
+package assessment.projeto03;
 import java.text.DecimalFormat;
 import java.util.InputMismatchException;
 import java.util.Scanner;

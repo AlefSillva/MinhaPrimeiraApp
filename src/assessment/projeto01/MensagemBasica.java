@@ -1,4 +1,4 @@
-package assessment.projeto1;
+package assessment.projeto01;
 
 public class MensagemBasica {
     public static void main(String[] args) {

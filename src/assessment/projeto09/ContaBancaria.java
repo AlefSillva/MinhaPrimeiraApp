@@ -1,4 +1,4 @@
-package assessment.projeto9;
+package assessment.projeto09;
 
 public class ContaBancaria {
     String titular;

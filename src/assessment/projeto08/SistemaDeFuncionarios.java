@@ -1,4 +1,4 @@
-package assessment.projeto8;
+package assessment.projeto08;
 
 public class SistemaDeFuncionarios {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package assessment.projeto7;
+package assessment.projeto07;
 
 public class GerenciadorDeAlunos {
     public static void main(String[] args) {
