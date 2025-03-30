@@ -88,7 +88,7 @@ public class RegistroDeCompras {
             writer.write("Quantidade: " + compra.quantidade + "\n");
             writer.write("Preço Unitário: " + compra.precoUnitario + "\n");
             writer.write("------------------------------------------\n");
-            System.out.println("Compra registrada com sucesso: " + compra.produto + "\n");  // Mensagem de depuração
+            System.out.println("Compra registrada com sucesso: " + compra.produto + "\n");
 
         } catch (IOException e) {
             System.out.println("Erro ao escrever no arquivo: " + e.getMessage());
@@ -96,7 +96,7 @@ public class RegistroDeCompras {
             try {
                 if (writer != null) {
                     writer.close();
-                    System.out.println("Arquivo fechado com sucesso.");  // Mensagem de depuração
+                    System.out.println("Arquivo fechado com sucesso.");
                 }
             } catch (IOException e) {
                 System.out.println("Erro ao fechar o arquivo: " + e.getMessage());
@@ -106,7 +106,7 @@ public class RegistroDeCompras {
 
 
     public static void lerArquivo() {
-        String nomeArquivo = "src/assessment/projeto10/compras.txt"; // Caminho absoluto do arquivo
+        String nomeArquivo = "src/assessment/projeto10/compras.txt";
         try {
             File file = new File(nomeArquivo);
             if (!file.exists()) {
